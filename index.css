@@ -1,0 +1,97 @@
+div ul{
+    margin-top: 30px;
+  
+    color: rgb(0, 106, 255);
+}
+
+img{
+    
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    width: 350px;
+    height: 300px;
+    
+}
+
+hr{
+    height: 2px;
+    color:solid black;
+    margin-top: 40px;
+}
+
+table tr,th,td{
+    border: 2px solid black;
+}
+
+a{
+    display: block;
+    margin-top: 15px;
+    
+    color: rgb(61, 61, 232);
+    text-decoration :  underline blue;
+}
+
+div h3{
+
+    width: 900px;
+    font-style: oblique;
+    
+}
+
+pre{
+    font-size: 30px;
+    font-weight: 900;
+}
+
+form
+{
+    width: 700px;
+    
+    min-height: 250px;
+}
+
+form input,textarea{
+    margin-top: 20px;
+    
+    height: 10pxpx;
+}
+form label{
+    margin-left: 20px;
+    
+}
+
+textarea
+{
+    min-height: 150px;
+    min-width: 250px;
+    margin-bottom: 30px;
+    margin-top: 0px;
+}
+
+
+bordered-form{
+    margin: 8px;
+    padding: 6px;
+}
+
+div{
+   
+    margin-top: 10px;
+}
+
+
+
+fieldset {
+    border: 1px solid #000;
+    /* Border around the fieldset */
+    /* padding: 10px; */
+    /* Padding inside the fieldset */
+}
+
+legend{
+    margin-left: 20px;
+    margin-bottom: 0;
+    margin-top: 30px;
+}
+
